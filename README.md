@@ -1,7 +1,7 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 # Tacobell USA Website Scrape
-An automation script to automate browser that will scrape restaurants' location from <a>tacobell.com/locations</a>
+An automation script to automate browser that will scrape restaurants' location from <a href='https://www.tacobell.com/locations'>tacobell.com/locations</a>
 
 ![forthebadge made-by-soumya](https://img.shields.io/badge/CREATED_BY-SOUMYA-blue)
 
