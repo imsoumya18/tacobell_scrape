@@ -17,6 +17,6 @@ In case of any problem mail me: <a href="mailto:soumyadeep184@gmail.com">soumyad
 
 ![forthebadge made-by-soumya](https://img.shields.io/badge/CREATED_BY-SOUMYA-blue)
 
-I got this project as a freelance job from **Robert** on **Upwork**. Thanks to him❤. I shall be glad to work with him again.
+I got this project as a freelance job from **Robert Paulson** on **Upwork**. Thanks to him❤. I shall be glad to work with him again.
 
 ![forthebadge thanks-to-robert](https://img.shields.io/badge/THANKS_TO-ROBERT-brightgreen)
