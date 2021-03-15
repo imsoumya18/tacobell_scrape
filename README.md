@@ -7,7 +7,7 @@ An automation script to automate browser that will scrape restaurants' location 
 1. Download the project as zip & extract it.
 2. Enable **Google Drive API** & **Google Sheets API**.
 3. Download credential JSON file & rename it to **cred.json**. Place it in the root folder i.e. in the same folder where **main.py** is located.
-4. If the URL is **NOT** censored in your location, remove/comment-out line **24 & 25**.
+4. If the URL is **NOT** censored in your location, remove/comment-out line **23 & 24**.
 
 ***Precautions:***
 1. Make sure **Google Drive API** & **Google Sheets API** is enabled.
