@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6222da84-3470-4bde-a7a2-19761398b777" name="Default Changelist" comment="final">
-      <change afterPath="$PROJECT_DIR$/cred.json" afterDir="false" />
-    </list>
+    <list default="true" id="6222da84-3470-4bde-a7a2-19761398b777" name="Default Changelist" comment="final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
